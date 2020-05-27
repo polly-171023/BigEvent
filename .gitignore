@@ -1,0 +1,8 @@
+# 做这一步的目的就是以后传项目文件夹时，可以自行下载的文件就没有必要传，看得人自己下载也可以
+#表示注释
+
+#忽略node_modules文件夹
+node_modules/
+
+#忽略package-lock.json
+package-lock.json
